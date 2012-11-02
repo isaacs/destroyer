@@ -1,0 +1,34 @@
+{
+    "name" : "destroyer",
+    "version" : "0.0.0",
+    "description" : "destroy network servers for when .close() is not enough",
+    "main" : "index.js",
+    "directories" : {
+        "example" : "example",
+        "test" : "test"
+    },
+    "devDependencies" : {
+        "tap" : "~0.3.0"
+    },
+    "scripts" : {
+        "test" : "tap test/*.js"
+    },
+    "repository" : {
+        "type" : "git",
+        "url" : "git://github.com/substack/destroyer.git"
+    },
+    "homepage" : "https://github.com/substack/destroyer",
+    "keywords" : [
+        "net",
+        "http",
+        "createServer",
+        "destroy",
+        "close"
+    ],
+    "author" : {
+        "name" : "James Halliday",
+        "email" : "mail@substack.net",
+        "url" : "http://substack.net"
+    },
+    "license" : "MIT"
+}

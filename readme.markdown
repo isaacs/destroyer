@@ -1,6 +1,6 @@
 # destroyer
 
-destroy tcp servers for when `.close()` is not enough
+destroy network servers for when `.close()` is not enough
 
 # example
 
