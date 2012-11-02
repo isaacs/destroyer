@@ -2,6 +2,8 @@
 
 destroy network servers for when `.close()` is not enough
 
+[![build status](https://secure.travis-ci.org/substack/destroyer.png)](http://travis-ci.org/substack/destroyer)
+
 # example
 
 ``` js
